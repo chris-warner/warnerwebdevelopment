@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.3c9fe6a2.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.8d098681.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.8d098681.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.266d4783.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.266d4783.js.map",
+    "static/js/2.f9a3bec1.chunk.js": "/React-Portfolio/static/js/2.f9a3bec1.chunk.js",
+    "static/js/2.f9a3bec1.chunk.js.map": "/React-Portfolio/static/js/2.f9a3bec1.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.05467851ad00735475c56fa13b8d7a3b.js": "/React-Portfolio/precache-manifest.05467851ad00735475c56fa13b8d7a3b.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.3c9fe6a2.chunk.css.map": "/React-Portfolio/static/css/main.3c9fe6a2.chunk.css.map",
+    "static/js/2.f9a3bec1.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.f9a3bec1.chunk.js.LICENSE.txt",
+    "static/media/3d_space_warp.png": "/React-Portfolio/static/media/3d_space_warp.c6e3e518.png",
+    "static/media/FriendFinder.png": "/React-Portfolio/static/media/FriendFinder.015e2ef3.png",
+    "static/media/List Products.png": "/React-Portfolio/static/media/List Products.bb595b09.png",
+    "static/media/MindStock.png": "/React-Portfolio/static/media/MindStock.86a19a78.png",
+    "static/media/buddy.png": "/React-Portfolio/static/media/buddy.4d03373f.png",
+    "static/media/burger.png": "/React-Portfolio/static/media/burger.93db960a.png",
+    "static/media/clicky-game.png": "/React-Portfolio/static/media/clicky-game.10c5ff60.png",
+    "static/media/fugatch.png": "/React-Portfolio/static/media/fugatch.5c43f236.png",
+    "static/media/gsap_banner_ad.png": "/React-Portfolio/static/media/gsap_banner_ad.f9bc5d33.png",
+    "static/media/liri.png": "/React-Portfolio/static/media/liri.98100702.png",
+    "static/media/me.png": "/React-Portfolio/static/media/me.1a2191fe.png",
+    "static/media/technics-q-c-640-480-1.png": "/React-Portfolio/static/media/technics-q-c-640-480-1.4846905a.png",
+    "static/media/technics-q-c-640-480-2.png": "/React-Portfolio/static/media/technics-q-c-640-480-2.a23aca62.png",
+    "static/media/technics-q-c-640-480-5.png": "/React-Portfolio/static/media/technics-q-c-640-480-5.4be6da38.png",
+    "static/media/technics-q-c-640-480-7.png": "/React-Portfolio/static/media/technics-q-c-640-480-7.10be37d4.png",
+    "static/media/tip.png": "/React-Portfolio/static/media/tip.27234720.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.266d4783.js",
+    "static/js/2.f9a3bec1.chunk.js",
+    "static/css/main.3c9fe6a2.chunk.css",
+    "static/js/main.8d098681.chunk.js"
+  ]
+}

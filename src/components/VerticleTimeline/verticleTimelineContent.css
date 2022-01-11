@@ -1,0 +1,10 @@
+.contentImage {
+    vertical-align: center;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    position: absolute;
+    top: 0px;
+    left:0px;
+    margin: auto;
+}
