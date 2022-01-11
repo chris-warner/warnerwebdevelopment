@@ -25,23 +25,52 @@ function Home() {
           </p>
           </div>
         </Jumbotron>
-        <br />
-        <div className="divider-custom divider-light">
-          <div className="divider-custom-line"></div>
-          <div className="divider-custom-icon">
-            <i className="fas fa-star"></i>
-          </div>
-          <div className="divider-custom-line"></div>
-        </div>
-        <p className="masthead-subheading font-weight-light mb-0">
-          Chris Warner - Web Designer - Full Stack Development
-        </p>
-        <p style={centerText}></p>
-        <br></br>
-        <br></br>
-        <br></br>
+       
+
         {/* <Button style={btnStyle}>Portfolio</Button> */}{" "}
+        <section className="services">
+      <div className="container">
+         <div className="section-title">
+            <h2>Services</h2>
+         </div>
+         <br></br>
+         <div className="row">
+            <div className="col-lg-4 col-md-6" data-aos="fade-up">
+               <div className="service-box">
+                  <div className="spacer"></div>
+                  <h4><a href="">Web Design</a></h4>
+                  <p>Build a customized website design that's perfect for your business or personal site.</p>
+                  <a href="#" className="btn btn-success center-block mt-2 mb-2">Read More »</a>
+               </div>
+            </div>
+            <div className="col-lg-4 col-md-6" data-aos="fade-up">
+               <div className="service-box">
+               <div className="spacer"></div>
+                  <h4><a href="">Consultation</a></h4>
+                  <p>...</p>
+                  <a href="#" className="btn btn-success center-block mt-2 mb-2">Read More »</a>
+               </div>
+            </div>
+            <div className="col-lg-4 col-md-6" data-aos="fade-up">
+
+               <div className="service-box">
+               <Tilt>
+
+               <div className="spacer"></div>
+                  <h4><a href="">Website Updates and Upgrades</a></h4>
+                  <p>Update or upgrade your existing website.</p>
+                  <a href="#" className="btn btn-success center-block mt-2 mb-2">Read More »</a>
+                  </Tilt>
+
+               </div>
+            </div>
+
+            
+         </div>
       </div>
+   </section>
+      </div>
+    
       <FooterComponent />
     </div>
   );
