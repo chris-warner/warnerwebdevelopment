@@ -4,6 +4,7 @@ import NavBarComponent from "../../NavBar/NavBarComponent";
 import FooterComponent from "../../Footer/FooterComponent";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Button from "react-bootstrap/Button";
+import heroImage from '../../../assets/images/hero.jpg';
 import Container from "react-bootstrap/Container";
 import me from "../../../assets/images/me.png";
 import "./home.css";
@@ -13,13 +14,16 @@ function Home() {
     <div>
       <NavBarComponent />
       <div className="container d-flex align-items-center flex-column">
-        <Jumbotron>
+        <Jumbotron style={{ height:'500px', backgroundImage: `url(${heroImage})`, backgroundSize: 'cover' }}>
+          <div className="jumbotronContent">
+              <div className="jumobtronSubContent">
           <h1>Warner Web Development</h1>
           <p>This is a simple Jumbotron example.</p>
-
+          </div>
           <p>
             <Button variant="primary">Primary Button</Button>
           </p>
+          </div>
         </Jumbotron>
         <br />
         <div className="divider-custom divider-light">

@@ -7,6 +7,28 @@ img {
 .jumbotron {
     width: 100%;
     text-align: center;
+    background-image: url(/src/assets/images/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: transparent;
+    /* filter: blur(8px);
+    -webkit-filter: blur(8px); */
+}
+
+.jumbotronContent {
+    height: 200px;
+    background-color: black;
+    background-color: transparent;
+    margin-top: 90px;
+    color: white;
+}
+
+h1 {
+    font-size: 80px !important;
+}
+
+.jumobtronSubContent {
+    padding-top: 28px;
 }
 
 .container{ 
@@ -14,4 +36,24 @@ img {
     margin: 0px !important;
     padding: 0px !important;
     max-width: inherit !important;
+}
+
+@media (max-width: 640px) {
+    .jumobtronSubContent {
+        padding-top: 50px;
+    }
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (max-width: 1024px) {
+    h1 {
+        font-size: 40px !important;
+    }
+}
+
+@media (min-width: 1280px) {
+
 }
