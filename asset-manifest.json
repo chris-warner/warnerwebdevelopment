@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/warnerwebdevelopment/static/css/main.96fb9f8a.chunk.css",
+    "main.js": "/warnerwebdevelopment/static/js/main.0f672670.chunk.js",
+    "main.js.map": "/warnerwebdevelopment/static/js/main.0f672670.chunk.js.map",
+    "runtime-main.js": "/warnerwebdevelopment/static/js/runtime-main.4d05b425.js",
+    "runtime-main.js.map": "/warnerwebdevelopment/static/js/runtime-main.4d05b425.js.map",
+    "static/js/2.9a539c6d.chunk.js": "/warnerwebdevelopment/static/js/2.9a539c6d.chunk.js",
+    "static/js/2.9a539c6d.chunk.js.map": "/warnerwebdevelopment/static/js/2.9a539c6d.chunk.js.map",
+    "index.html": "/warnerwebdevelopment/index.html",
+    "precache-manifest.e9667a1dbb5dc3b659eca17afaf0332e.js": "/warnerwebdevelopment/precache-manifest.e9667a1dbb5dc3b659eca17afaf0332e.js",
+    "service-worker.js": "/warnerwebdevelopment/service-worker.js",
+    "static/css/main.96fb9f8a.chunk.css.map": "/warnerwebdevelopment/static/css/main.96fb9f8a.chunk.css.map",
+    "static/js/2.9a539c6d.chunk.js.LICENSE.txt": "/warnerwebdevelopment/static/js/2.9a539c6d.chunk.js.LICENSE.txt",
+    "static/media/3d_space_warp.png": "/warnerwebdevelopment/static/media/3d_space_warp.c6e3e518.png",
+    "static/media/FriendFinder.png": "/warnerwebdevelopment/static/media/FriendFinder.015e2ef3.png",
+    "static/media/List Products.png": "/warnerwebdevelopment/static/media/List Products.bb595b09.png",
+    "static/media/MindStock.png": "/warnerwebdevelopment/static/media/MindStock.86a19a78.png",
+    "static/media/buddy.png": "/warnerwebdevelopment/static/media/buddy.4d03373f.png",
+    "static/media/burger.png": "/warnerwebdevelopment/static/media/burger.93db960a.png",
+    "static/media/clicky-game.png": "/warnerwebdevelopment/static/media/clicky-game.10c5ff60.png",
+    "static/media/fugatch.png": "/warnerwebdevelopment/static/media/fugatch.5c43f236.png",
+    "static/media/gsap_banner_ad.png": "/warnerwebdevelopment/static/media/gsap_banner_ad.f9bc5d33.png",
+    "static/media/hero.jpg": "/warnerwebdevelopment/static/media/hero.5a147418.jpg",
+    "static/media/liri.png": "/warnerwebdevelopment/static/media/liri.98100702.png",
+    "static/media/me.png": "/warnerwebdevelopment/static/media/me.1a2191fe.png",
+    "static/media/technics-q-c-640-480-1.png": "/warnerwebdevelopment/static/media/technics-q-c-640-480-1.4846905a.png",
+    "static/media/technics-q-c-640-480-2.png": "/warnerwebdevelopment/static/media/technics-q-c-640-480-2.a23aca62.png",
+    "static/media/technics-q-c-640-480-5.png": "/warnerwebdevelopment/static/media/technics-q-c-640-480-5.4be6da38.png",
+    "static/media/technics-q-c-640-480-7.png": "/warnerwebdevelopment/static/media/technics-q-c-640-480-7.10be37d4.png",
+    "static/media/tip.png": "/warnerwebdevelopment/static/media/tip.27234720.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d05b425.js",
+    "static/js/2.9a539c6d.chunk.js",
+    "static/css/main.96fb9f8a.chunk.css",
+    "static/js/main.0f672670.chunk.js"
+  ]
+}
