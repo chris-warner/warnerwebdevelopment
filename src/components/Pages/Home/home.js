@@ -1,6 +1,6 @@
 import React from "react";
-import Tilt from "react-parallax-tilt";
 import NavBarComponent from "../../NavBar/NavBarComponent";
+import StatusComponent from "../../Status/StatusComponent";
 import FooterComponent from "../../Footer/FooterComponent";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Button from "react-bootstrap/Button";
@@ -13,6 +13,7 @@ function Home() {
   return (
     <div>
       <NavBarComponent />
+      <StatusComponent />
       <div className="container d-flex align-items-center flex-column">
         <Jumbotron
           style={{
@@ -26,7 +27,7 @@ function Home() {
               <h1>Warner Web Development</h1>
             </div>
             <p>
-              <Button variant="primary">Contact</Button>
+              <Button href="mailto: chris@warnerwebdevelopment.com" variant="primary">Contact</Button>
             </p>
           </div>
         </Jumbotron>
@@ -48,8 +49,9 @@ function Home() {
                     Build a customized website design that's perfect for your
                     business or personal site.
                   </p>
+                  <br></br>
                   <a
-                    href="#"
+                    href="mailto: chris@warnerwebdevelopment.com"
                     className="btn btn-success center-block mt-2 mb-2"
                   >
                     Contact »
@@ -62,9 +64,10 @@ function Home() {
                   <h4>
                     <a href="">Consultation</a>
                   </h4>
-                  <p>...</p>
+                  <p>Improve your Search Engine Optimization (SEO) or plan a new website or upgrade.</p>
+                  <br></br>
                   <a
-                    href="#"
+                    href="mailto: chris@warnerwebdevelopment.com"
                     className="btn btn-success center-block mt-2 mb-2"
                   >
                     Contact »
@@ -73,19 +76,18 @@ function Home() {
               </div>
               <div className="col-lg-4 col-md-6" data-aos="fade-up">
                 <div className="service-box">
-                  <Tilt>
                     <div className="spacer"></div>
                     <h4>
                       <a href="">Website Updates and Upgrades</a>
                     </h4>
                     <p>Update or upgrade your existing website.</p>
+                    <br></br>
                     <a
-                      href="#"
+                      href="mailto: chris@warnerwebdevelopment.com"
                       className="btn btn-success center-block mt-2 mb-2"
                     >
                       Contact »
                     </a>
-                  </Tilt>
                 </div>
               </div>
             </div>
