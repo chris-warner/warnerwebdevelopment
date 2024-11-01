@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/warnerwebdevelopment/static/css/main.96fb9f8a.chunk.css",
-    "main.js": "/warnerwebdevelopment/static/js/main.0f672670.chunk.js",
-    "main.js.map": "/warnerwebdevelopment/static/js/main.0f672670.chunk.js.map",
-    "runtime-main.js": "/warnerwebdevelopment/static/js/runtime-main.4d05b425.js",
-    "runtime-main.js.map": "/warnerwebdevelopment/static/js/runtime-main.4d05b425.js.map",
-    "static/js/2.9a539c6d.chunk.js": "/warnerwebdevelopment/static/js/2.9a539c6d.chunk.js",
-    "static/js/2.9a539c6d.chunk.js.map": "/warnerwebdevelopment/static/js/2.9a539c6d.chunk.js.map",
+    "main.css": "/warnerwebdevelopment/static/css/main.c513a895.chunk.css",
+    "main.js": "/warnerwebdevelopment/static/js/main.c1afe760.chunk.js",
+    "main.js.map": "/warnerwebdevelopment/static/js/main.c1afe760.chunk.js.map",
+    "runtime-main.js": "/warnerwebdevelopment/static/js/runtime-main.19e706b1.js",
+    "runtime-main.js.map": "/warnerwebdevelopment/static/js/runtime-main.19e706b1.js.map",
+    "static/js/2.50934eec.chunk.js": "/warnerwebdevelopment/static/js/2.50934eec.chunk.js",
+    "static/js/2.50934eec.chunk.js.map": "/warnerwebdevelopment/static/js/2.50934eec.chunk.js.map",
     "index.html": "/warnerwebdevelopment/index.html",
-    "precache-manifest.e9667a1dbb5dc3b659eca17afaf0332e.js": "/warnerwebdevelopment/precache-manifest.e9667a1dbb5dc3b659eca17afaf0332e.js",
+    "precache-manifest.89313d45815c451ce8709c301b871096.js": "/warnerwebdevelopment/precache-manifest.89313d45815c451ce8709c301b871096.js",
     "service-worker.js": "/warnerwebdevelopment/service-worker.js",
-    "static/css/main.96fb9f8a.chunk.css.map": "/warnerwebdevelopment/static/css/main.96fb9f8a.chunk.css.map",
-    "static/js/2.9a539c6d.chunk.js.LICENSE.txt": "/warnerwebdevelopment/static/js/2.9a539c6d.chunk.js.LICENSE.txt",
+    "static/css/main.c513a895.chunk.css.map": "/warnerwebdevelopment/static/css/main.c513a895.chunk.css.map",
+    "static/js/2.50934eec.chunk.js.LICENSE.txt": "/warnerwebdevelopment/static/js/2.50934eec.chunk.js.LICENSE.txt",
     "static/media/3d_space_warp.png": "/warnerwebdevelopment/static/media/3d_space_warp.c6e3e518.png",
     "static/media/FriendFinder.png": "/warnerwebdevelopment/static/media/FriendFinder.015e2ef3.png",
     "static/media/List Products.png": "/warnerwebdevelopment/static/media/List Products.bb595b09.png",
@@ -31,9 +31,9 @@
     "static/media/tip.png": "/warnerwebdevelopment/static/media/tip.27234720.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d05b425.js",
-    "static/js/2.9a539c6d.chunk.js",
-    "static/css/main.96fb9f8a.chunk.css",
-    "static/js/main.0f672670.chunk.js"
+    "static/js/runtime-main.19e706b1.js",
+    "static/js/2.50934eec.chunk.js",
+    "static/css/main.c513a895.chunk.css",
+    "static/js/main.c1afe760.chunk.js"
   ]
 }

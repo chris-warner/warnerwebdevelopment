@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1bd763cd1dad296a7c7459a31bfda2d",
+    "revision": "4731726253933ef7fdc122b25aaa88fd",
     "url": "/warnerwebdevelopment/index.html"
   },
   {
-    "revision": "33e78d879e47399531b2",
-    "url": "/warnerwebdevelopment/static/css/main.96fb9f8a.chunk.css"
+    "revision": "875c3b3fd9b611d474a0",
+    "url": "/warnerwebdevelopment/static/css/main.c513a895.chunk.css"
   },
   {
-    "revision": "3cf178a297d348d101ff",
-    "url": "/warnerwebdevelopment/static/js/2.9a539c6d.chunk.js"
+    "revision": "09916dcdcf8b17845bcc",
+    "url": "/warnerwebdevelopment/static/js/2.50934eec.chunk.js"
   },
   {
-    "revision": "c87e50d81cc7b5311525cc6fd5482ea5",
-    "url": "/warnerwebdevelopment/static/js/2.9a539c6d.chunk.js.LICENSE.txt"
+    "revision": "35f1a3ca561e93b64bcba705f76bd30f",
+    "url": "/warnerwebdevelopment/static/js/2.50934eec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33e78d879e47399531b2",
-    "url": "/warnerwebdevelopment/static/js/main.0f672670.chunk.js"
+    "revision": "875c3b3fd9b611d474a0",
+    "url": "/warnerwebdevelopment/static/js/main.c1afe760.chunk.js"
   },
   {
-    "revision": "ffa5429728cf5a289414",
-    "url": "/warnerwebdevelopment/static/js/runtime-main.4d05b425.js"
+    "revision": "0ca72871b8edad19c549",
+    "url": "/warnerwebdevelopment/static/js/runtime-main.19e706b1.js"
   },
   {
     "revision": "c6e3e51833a4d3bbeb3812ef6e4e3734",
