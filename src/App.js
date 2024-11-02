@@ -3,9 +3,14 @@ import React from 'react';
  import Portfolio from './components/Pages/Portfolio/portfolio';
  import About from './components/Pages/About/about';
  import Home from './components/Pages/Home/home';
+ import  { useEffect } from 'react';
+
  import './App.css';
 
  function App() {
+  useEffect(() => {
+    document.title = 'Warner Web Development';
+  }, []);
    return (
      <HashRouter basename='/'>
     <div>

@@ -20,6 +20,7 @@ import gsapBannerAd from '../../assets/images/gsap_banner_ad.png';
 import spaceWarp from '../../assets/images/3d_space_warp.png';
 
 function VerticleTimeline() {
+  console.log(spaceWarp)
   return (
     <div>
       <VerticalTimeline>
